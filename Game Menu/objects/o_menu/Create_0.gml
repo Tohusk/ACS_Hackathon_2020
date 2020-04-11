@@ -9,8 +9,9 @@ button_h = 70;
 button[0] = "Scrub and Rub";
 button[1] = "Stay Away"
 button[2] = "Iso-mates Isolate"
-button[3] = "LEADERBOARD"
-button[4] = "EXIT"
+button[3] = "Cover Up"
+button[4] = "LEADERBOARD"
+button[5] = "EXIT"
 
 buttons = array_length_1d(button);
 menu_index = 0;
