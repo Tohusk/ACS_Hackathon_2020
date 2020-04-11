@@ -1,16 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
-if object_get_visible(sportsAloneO){
+if sportsAloneO.visible == true{
 	
 }
-else if object_get_visible(workO){
+else if workO.visible == true{
 	
 }
-else if object_get_visible(sportsGroupO){
+else if sportsGroupO.visible == true{
 	//sprite_index = bunnyS
 	visible = true
 }
-else if object_get_visible(familyO){
+else if familyO.visible == true{
 	visible = true
 }
 else {
