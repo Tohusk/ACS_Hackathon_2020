@@ -34,7 +34,7 @@ if room_exists(room_next(room)) && level_pass
 	{
 		if room == rm_3
 		{
-			room_goto(room0);	
+			room_goto(rm_outro);	
 		}
 		else
 		{
@@ -46,5 +46,5 @@ else if !room_exists(room_next(room)) && level_pass
 {
 	image_index = 0;
 	obj_check_level_pass.visible = true;
-	room_goto(room0);
+	room_goto(rm_outro);
 }

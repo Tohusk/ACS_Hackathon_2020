@@ -9,7 +9,7 @@ switch(menu_index) {
 		room_goto(flappy_hand_room);
 		break;
 	case 2:
-		room_goto(rm_washinggame);
+		room_goto(rm_home_menu);
 		break;
 	case 3:
 		room_goto(rm_1);
