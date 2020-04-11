@@ -31,6 +31,7 @@ if image_index == 3
 	else
 	{	// Sad face after bad sneeze loaded
 		image_index = 4;
+		failure = 1;
 	}
 }
 

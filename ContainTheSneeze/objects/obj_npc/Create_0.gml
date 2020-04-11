@@ -9,3 +9,4 @@ time_after_bad_sneeze = 1*room_speed;
 time_after_good_sneeze = 0.5*room_speed;
 
 success = 0;
+failure = 0;
