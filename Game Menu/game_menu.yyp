@@ -217,7 +217,7 @@
         {
             "Key": "650b711f-5cbf-4c3e-b19c-5d343ed09654",
             "Value": {
-                "id": "df62dbd6-58c5-4b70-b6b6-8212184cc4f3",
+                "id": "33f68a37-c9ce-4adb-beaa-038e1dd2dc72",
                 "resourcePath": "objects\\obj_obstacle_bot\\obj_obstacle_bot.yy",
                 "resourceType": "GMObject"
             }
@@ -409,7 +409,7 @@
         {
             "Key": "e15e78cc-eb33-40bb-b0ae-51447b051216",
             "Value": {
-                "id": "15ee8f57-c366-444f-b038-e8cc0a62ee1e",
+                "id": "712aebab-3f2a-4f48-82f5-50fd01c76d38",
                 "resourcePath": "objects\\obj_obstacle_top\\obj_obstacle_top.yy",
                 "resourceType": "GMObject"
             }
