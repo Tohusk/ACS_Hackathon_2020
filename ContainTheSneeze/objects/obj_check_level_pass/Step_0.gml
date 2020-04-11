@@ -22,3 +22,7 @@ if room_exists(room_next(room)) && level_pass
 		room_goto_next();
 	}
 }
+else if !room_exists(room_next(room)) && level_pass
+{
+	obj_check_level_pass.visible = true;
+}
